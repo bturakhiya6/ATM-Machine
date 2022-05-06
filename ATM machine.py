@@ -1,4 +1,4 @@
-import tim
+import time
 
 print("Please insert your card")
  
